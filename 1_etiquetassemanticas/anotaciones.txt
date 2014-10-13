@@ -7,3 +7,6 @@ hgroup eliminada de html5
 article contenedor principal de la pagina
 
 section= no abusar de section no sustituir los div por section
+
+
+hola esto es nuevo s
