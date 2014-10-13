@@ -1,0 +1,7 @@
+los formularios cambiaron para mejorar la experiencia de usuario ymejorara la vista movil
+
+tenemos controles para validaciones
+
+el control tel solo hay diferencia en los moviles que adoptan distribucion numerica
+
+usar js para obtener su valor

@@ -1,0 +1,9 @@
+palabras semanticas dependen del contexto donde se dicesn, tenemos que tener cuidado para que los buscadores sepan de que hablamos gracias a las etiquetas semanticas , seo es el tipo que busquedas ya que son organicas , para eso debemos usar bien las etiquetas html
+
+etiquetas con valores semantico
+
+hgroup eliminada de html5
+
+article contenedor principal de la pagina
+
+section= no abusar de section no sustituir los div por section
